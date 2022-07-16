@@ -39,9 +39,7 @@ figure, img{
 
 table{
     border: none;
-}
-tbody, tr{
-    text-align: center;
+    margin-left: 13px;
 }
 td{
     padding: 0.8em;
@@ -81,6 +79,7 @@ h2, h3{
 
 .right-menu__foot .btn{
     width: 390px;
+    margin-top: 63px;
     font-weight: bolder;
     font-size: medium;
     text-align: center;
