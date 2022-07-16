@@ -77,7 +77,7 @@ h2, h3{
     width: 100%;
 }
 
-.right-menu__foot .btn{
+.right-menu__foot > .btn{
     width: 390px;
     margin-top: 63px;
     font-weight: bolder;
